@@ -1,0 +1,38 @@
+[ 
+    {
+        "image": "../assets/ballet-shoes-svgrepo-com.svg",
+        "name": "ballet"
+    },
+    {
+        "image": "../assets/blueberries-svgrepo-com.svg",
+        "name": "blueberries"
+    },
+    {
+        "image": "../assets/cherries-svgrepo-com.svg",
+        "name": "cherries"
+    },
+    {
+        "image": "../assets/cherry-blossom-svgrepo-com.svg",
+        "name": "flower"
+    },
+    {
+        "image": "../assets/cupcake-svgrepo-com.svg",
+        "name": "cupcake"
+    },
+    {
+        "image": "../assets/deer-svgrepo-com.svg",
+        "name": "deer"
+    },
+    {
+        "image": "../assets/growing-heart-svgrepo-com.svg",
+        "name": "heart"
+    },
+    {
+        "image": "../assets/rabbit-face-svgrepo-com.svg",
+        "name": "rabbit"
+    },
+    {
+        "image": "../assets/ringed-planet-svgrepo-com.svg",
+        "name": "planet"
+    }
+]
